@@ -5,6 +5,9 @@
 import java.util.LinkedList;
 import java.util.Queue;
 
+// lets hope this works have no experience with vi
+// wish me luck 
+
 class SharedBuffer {
     private final Queue<Integer> buffer = new LinkedList<>();
     private final int capacity = 5;

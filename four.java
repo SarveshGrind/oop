@@ -1,9 +1,5 @@
 // 4th assingment
 import java.util.Scanner;
-//I will get this merged no matter what
-// hello world
-
-
 // I hope this works i have been eorking long but the progress has not been much must be more efficient
 // maybe its time to put on 40hz bineural beats and focous
 

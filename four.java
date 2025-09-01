@@ -1,6 +1,9 @@
 // 4th assingment
 import java.util.Scanner;
 
+// I hope this works i have been eorking long but the progress has not been much must be more efficient
+// maybe its time to put on 40hz bineural beats and focous
+
 public class four {
 
     Scanner sc = new Scanner(System.in);
